@@ -3,6 +3,9 @@ Firstly, Maximally Stable Extremal Regions(MSER) is used to find the text region
 
 Step 1:- Detect text regions using MSER 
 
+![a](https://user-images.githubusercontent.com/20256767/95005166-96feb000-05c2-11eb-9bc1-16fc4fc66ea6.png)
+
+
 Step 2:- Remove non-text regions using geometric properties
 
 Step 3:- Remove non-text regions based on stroke width variation
